@@ -45,3 +45,5 @@ MoLo CBLight是一款区分类型关键字和其他关键字，整体更亮但�
 MoLo CBOut是尽量维持MoLo CodeBlack配色不变，用于复制到Word，在白纸上打印阅读的配色，未加入也不打算加入小熊猫。
 
 MoLo PureDark是一款针对色盲设计的具有较高元素区分度的配色方案，考虑到色盲种类繁多，该配色仅有黑白色调，不加入小熊猫。
+
+MoLo Console是由MoLo CodeBlack配色映射到最近的16控制台颜色而成的配色，可体现MoLo CodeBlack配色的元素区分理念，不加入小熊猫。
