@@ -52,7 +52,7 @@ Ltabsyy观察到除了VS Code的现代深色色系，还有不少用户喜欢One
 
 Ltabsyy在制作MoLo Console时，观察到全局变量的前景色与当前高亮单词的背景色无区分，故产生纯前景高亮单词和红括号匹配构想，在2024年3月28日推出MoLo Console v2版本，在2024年3月29日推出MoLo CodeBlack v2和MoLo CBLight v2。MoLo Console v2替换了本仓库的旧版本，其余旧版本保留。MoLo CBLight v2替换了小熊猫的旧版本以作尝试，MoLo CodeBlack未改变。
 
-随后，Ltabsyy产生阴阳配色构想，由MoLo CodeBlack颜色作为阴极配色，微调MoLo CBOut2作为阳极配色。后续在2024年3月30日完成阳极配色MoLo CWOut，在2024年3月31日完成阴极配色MoLo CWOut3。计划阳极配色加入小熊猫以满足复制到Word需求并作进一步测试。
+随后，Ltabsyy产生阴阳配色构想，由MoLo CodeBlack颜色作为阴极配色，微调MoLo CBOut2作为阳极配色。后续在2024年3月30日完成阳极配色MoLo CWOut，在2024年3月31日完成阴极配色MoLo CBOut3。计划阳极配色加入小熊猫以满足复制到Word需求并作进一步测试。
 
 ## 主题介绍
 MoLo主题是一款深邃、鲜艳、有区分度的小熊猫C++配色，其为深色模式配色，并为MoLo CodeBlack配色版本。
