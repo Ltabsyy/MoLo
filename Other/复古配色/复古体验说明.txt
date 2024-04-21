@@ -1,0 +1,5 @@
+Dev-C++是小熊猫Dev-C++的前身，也是国内初学者常用的C语言IDE，小熊猫的很多配色便来源于此。然而小熊猫的Classic、Classic Plus相对Dev-C++有不少变化，Dev-C++的Ocean也并不包含。除此以外，小龙Dev-C++也有独立的Classic Plus（经典+）、Green Land（淡绿草地）。为了使小熊猫C++成为某种意义上的“全集”，也为了感受小熊猫C++多年来的进步，故移植Dev-C++的Classic、Classic Plus、Ocean，小龙Dev-C++的Classic Plus、Green Land。分别称为Dev Classic Minus、Dev Classic、Ocean、XiaoLoong Dev、Green Land。
+
+Dev并没有当前高亮单词、当前行侧边栏、转义序列、具体标识符、彩虹括号的区分，也不存在错误/警告下划线，为了复古体验，配色也故意避免了以上元素的呈现，以使显示效果与Dev相同。
+
+VC6这位更是寄，在Dev基础上没当前行、代码折叠线、侧边栏，不区分活动断点，并且默认配色只有关键字、预处理指令、注释为非黑。以此理念实现的VC6 Classic则体现了以上特性。
