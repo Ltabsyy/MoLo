@@ -2,12 +2,13 @@
     "Active Breakpoint": {
         "background": "#ff0000ff",
         "bold": false,
+        "foreground": "#ffffffff",
         "italic": false,
         "strikeout": false,
         "underlined": false
     },
     "Active Line": {
-        "background": "#ffccffff",
+        "background": "#ff59ffac",
         "bold": false,
         "italic": false,
         "strikeout": false,

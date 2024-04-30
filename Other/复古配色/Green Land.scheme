@@ -2,6 +2,7 @@
     "Active Breakpoint": {
         "background": "#ff0000ff",
         "bold": false,
+        "foreground": "#ffffffff",
         "italic": false,
         "strikeout": false,
         "underlined": false
@@ -191,9 +192,9 @@
         "underlined": false
     },
     "Selected text": {
-        "background": "#ffbbffdd",
+        "background": "#ff008080",
         "bold": false,
-        "foreground": "#ff808080",
+        "foreground": "#ffffffff",
         "italic": false,
         "strikeout": false,
         "underlined": false

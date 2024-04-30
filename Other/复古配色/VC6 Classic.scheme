@@ -2,6 +2,7 @@
     "Active Breakpoint": {
         "background": "#ff800000",
         "bold": false,
+        "foreground": "#ffffffff",
         "italic": false,
         "strikeout": false,
         "underlined": false
