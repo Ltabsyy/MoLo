@@ -1,6 +1,6 @@
 # MoLo CodeBlack
 
-MoLo主题，是一款已经在小熊猫C++ 2.26beta1内置的配色方案及周边配置。
+MoLo主题，是一款在小熊猫C++ 2.26开始内置的配色方案及周边配置。
 
 ## 发展历程
 
@@ -52,7 +52,7 @@ Ltabsyy观察到除了VS Code的现代深色色系，还有不少用户喜欢One
 
 Ltabsyy在制作MoLo Console时，观察到全局变量的前景色与当前高亮单词的背景色无区分，故产生纯前景高亮单词和红括号匹配构想，在2024年3月28日推出MoLo Console v2版本，在2024年3月29日推出MoLo CodeBlack v2和MoLo CBLight v2。MoLo Console v2替换了本仓库的旧版本，其余旧版本保留。MoLo CBLight v2替换了小熊猫的旧版本以作尝试，MoLo CodeBlack未改变。
 
-随后，Ltabsyy产生阴阳配色构想，由MoLo CodeBlack颜色作为阴极配色，微调MoLo CBOut2作为阳极配色。后续在2024年3月30日完成阳极配色MoLo CWOut，在2024年3月31日完成阴极配色MoLo CBOut3。计划阳极配色加入小熊猫以满足复制到Word需求并作进一步测试。
+随后，Ltabsyy产生阴阳配色构想，由MoLo CodeBlack颜色作为阴极配色，微调MoLo CBOut2作为阳极配色。后续在2024年3月30日完成阳极配色MoLo CWOut，在2024年3月31日完成阴极配色MoLo CBOut3。阳极配色后微调并起正式名称MoLo Mia，在2024年4月25日加入小熊猫以满足复制到Word需求并作进一步测试。
 
 ## 主题介绍
 MoLo主题是一款深邃、鲜艳、有区分度的小熊猫C++配色，其为深色模式配色，并为MoLo CodeBlack配色版本。
@@ -65,4 +65,4 @@ MoLo PureDark是一款针对色盲设计的具有较高元素区分度的配色�
 
 MoLo Console是由MoLo CodeBlack配色映射到最近的16控制台颜色而成的配色，可体现MoLo CodeBlack配色的元素区分理念，不加入小熊猫。
 
-MoLo CWOut是大幅改变配色，但保留MoLo CodeBlack色调不变，更好的满足复制到Word，在白纸上打印阅读需求的配色，计划加入小熊猫官方。
+MoLo CWOut是大幅改变配色，但保留MoLo CodeBlack色调不变，更好的满足复制到Word，在白纸上打印阅读需求的配色，正式名称为MoLo Mia，已加入小熊猫官方。
