@@ -199,7 +199,7 @@
     },
     "Space": {
         "bold": false,
-        "foreground": "#ffcbcccd",
+        "foreground": "#33383a42",
         "italic": false,
         "strikeout": false,
         "underlined": false

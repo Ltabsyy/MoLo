@@ -7,7 +7,7 @@
         "underlined": false
     },
     "Active Line": {
-        "background": "#ccd1ebef",
+        "background": "#77d1ebef",
         "bold": false,
         "italic": false,
         "strikeout": false,
@@ -191,7 +191,7 @@
         "underlined": false
     },
     "Selected text": {
-        "background": "#77ade2eb",
+        "background": "#ccade2eb",
         "bold": false,
         "italic": false,
         "strikeout": false,
