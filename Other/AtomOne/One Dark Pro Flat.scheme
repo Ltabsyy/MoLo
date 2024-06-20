@@ -48,7 +48,7 @@
         "underlined": false
     },
     "Current Highlighted Word": {
-        "background": "#ff353840",
+        "background": "#0fffffff",
         "bold": false,
         "italic": false,
         "strikeout": false,
@@ -191,7 +191,7 @@
         "underlined": false
     },
     "Selected text": {
-        "background": "#ff404859",
+        "background": "#61677696",
         "bold": false,
         "italic": false,
         "strikeout": false,

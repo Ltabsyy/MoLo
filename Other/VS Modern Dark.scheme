@@ -233,7 +233,7 @@
     },
     "brace/parenthesis/bracket level 1": {
         "bold": false,
-        "foreground": "#ffff6969",
+        "foreground": "#ffd4d4d4",
         "italic": false,
         "strikeout": false,
         "underlined": false
