@@ -93,7 +93,7 @@
     },
     "Function": {
         "bold": false,
-        "foreground": "#ffcfcfc2",
+        "foreground": "#ff8e44ad",
         "italic": false,
         "strikeout": false,
         "underlined": false
@@ -234,28 +234,28 @@
     },
     "brace/parenthesis/bracket level 1": {
         "bold": false,
-        "foreground": "#ff3f8058",
+        "foreground": "#ffe219e2",
         "italic": false,
         "strikeout": false,
         "underlined": false
     },
     "brace/parenthesis/bracket level 2": {
         "bold": false,
-        "foreground": "#ff3f8058",
+        "foreground": "#ff37d21c",
         "italic": false,
         "strikeout": false,
         "underlined": false
     },
     "brace/parenthesis/bracket level 3": {
         "bold": false,
-        "foreground": "#ff3f8058",
+        "foreground": "#ff1275ef",
         "italic": false,
         "strikeout": false,
         "underlined": false
     },
     "brace/parenthesis/bracket level 4": {
         "bold": false,
-        "foreground": "#ff3f8058",
+        "foreground": "#fff83c1f",
         "italic": false,
         "strikeout": false,
         "underlined": false
