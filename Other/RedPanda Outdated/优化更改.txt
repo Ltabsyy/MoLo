@@ -1,0 +1,39 @@
+Borland
+Borland 2
+选中文字背景色#c0c0c0，Alpha255，前景色#000000
+3级括号#ffffff
+Borland Turbo重新复刻Turbo C++配色
+Borland Turbo2新增当前行侧边栏，预处理指令改为纯前景#54ffff，以在结构管理器中正常显示
+
+Classic
+Classic Dev基于Dev Classic微调选中，加入当前行侧边栏、错误、警告下划线
+
+Visual Studio
+Visual Studio 2
+选中文字背景色#000000
+3级括号#0000ff
+Visual Studio Light复刻Visual Studio 2022浅色主题
+近期更新：优化类、注释、当前行、侧边栏、选中、高亮，调整3级括号
+
+Borland Turbo2、Classic Dev、Visual Studio Light加入小熊猫以代替旧的Borland、Classic、Visual Studio，名称分别为Borland Turbo、Classic、Visual Studio Light
+
+Remake outdated color schemes
+Borland、Classic、Visual Studio分别基于Turbo C++ 3.2默认配色、Dev-C++ Classic Plus配色、Visual Studio 2022浅色主题重新制作。
+**此3配色曾因过时而被移除，然而考虑到：**
+1.可能会导致部分用户的惯用配色被移除
+2.原版Orwell Dev-C++ 5.11、时新的XiaoLoong Dev-C++ 6.0、Embarcadero Dev-C++ 6.3均保留此3配色
+3.移除3配色几乎不能节省内存空间
+4.会影响深浅配色比例，使浅色配色占比降低
+**故选择保留上述配色，然而考虑到：**
+1.原3配色特性较为过时，可用性很低
+2.原3配色并没有完全复刻其来源应用的配色
+3.原3配色的来源应用对应配色已大幅更新
+**故选择重新制作此3配色，既保证用户的惯用配色不被移除，又使对应用户体验到最新特性。**
+**Borland**
+原Borland配色几乎所有元素都是黄色，Turbo C 2.0时期曾是所有元素均黄，3.0开始就有大量元素区分了，原Borland配色相当于Turbo 2.0配色进步了一小点。该配色沿袭于Orwell Dev-C++，可能原作者并没有认真复刻，产生了该配色。
+Turbo C++配色的本质是16控制台颜色，并且各元素颜色、前背景色可调，除了具体标识符的区分和彩虹括号等，其元素区分完整，并不能称为“过时”。
+故重新复刻Turbo C++ 3.2默认配色，侧边栏选用滚动条和消息栏的颜色，当前行侧边栏选用黑色即原版活动断点色，预处理指令改为纯前景#54ffff，以在结构管理器中正常显示。所有颜色均来源于Turbo C++ 3.2提供的16控制台颜色，并未做当前行、彩虹括号，保证原汁原味的体验。
+**Classic**
+原Classic配色对应Dev-C++的Classic配色，而原Classic Plus配色特性介于Dev-C++的Classic Plus配色和Intelij Classic配色之间。这样不仅原Classic配色制作的并不完善，最多人用的Dev-C++ Classic Plus配色也不存在于小熊猫，原Classic Plus配色卡在中间不上不下。故选择复刻Dev-C++ Classic Plus配色，这样小熊猫的Classic相当于Dev-C++ Classic Plus的微增强版，自己有更现代化的Intelij Classic，Classic Plus居于两者之间形成层次关系。原Classic配色在Dev-C++中也极少有人使用，被正式淘汰。即便有小熊猫用户惯用Classic，想必也欣于接受Dev-C++ Classic Plus配色。相比Dev-C++ Classic Plus配色，新Classic配色加入当前行侧边栏、错误、警告下划线，并未做彩虹括号（实测彩虹括号效果影响较大），保证体验与Dev-C++如出一辙。这才是应有的Classic！
+**Visual Studio**
+原Visual Studio配色类似VC6的设计，但在VC6基础上有了行号，当前行，高亮等新特性，然而VC6直至VS2022都并没有彩虹括号，VC6选中背景为黑色而不是深蓝色。目前原Visual Studio配色也较为过时，故选择按VS2022更新配色，VS2022自带主题有蓝(额外对比度)、蓝色、浅色、深色，其中前3代码配色均相同，深色为类VS Code配色，故选择复刻前3配色，并继续称为Visual Studio而不是Visual Studio Light。其中彩虹括号按原配色设计了黑蓝的2级括号，保证惯用用户的体验不退步。
